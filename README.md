@@ -12,7 +12,7 @@ Deployment: Can be integrated into waste management systems via a mobile or web 
 Technology Stack 
 Frameworks: TensorFlow / PyTorch.
 Languages: Python.
-Tools: OpenCV for image preprocessing, Matplotlib for visualization.
+Tools: OpenCV for image preprocessing, Matplotlib for visualization. 
 Hardware: Optional GPU acceleration for faster training. 
 
 Applications  
