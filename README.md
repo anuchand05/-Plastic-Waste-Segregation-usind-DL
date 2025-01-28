@@ -9,7 +9,7 @@ Dataset: Trained on a labeled dataset of plastic waste images.
 Accuracy Optimization: Fine-tunes the model using techniques like data augmentation and transfer learning. 
 Deployment: Can be integrated into waste management systems via a mobile or web application.
 
-Technology Stack 
+Technology Stack  
 Frameworks: TensorFlow / PyTorch.
 Languages: Python.
 Tools: OpenCV for image preprocessing, Matplotlib for visualization. 
