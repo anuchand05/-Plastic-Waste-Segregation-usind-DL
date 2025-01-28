@@ -13,7 +13,7 @@ Technology Stack
 Frameworks: TensorFlow / PyTorch.
 Languages: Python.
 Tools: OpenCV for image preprocessing, Matplotlib for visualization.
-Hardware: Optional GPU acceleration for faster training.
+Hardware: Optional GPU acceleration for faster training. 
 
 Applications  
 Recycling centers.
