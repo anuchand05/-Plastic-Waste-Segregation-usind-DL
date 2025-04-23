@@ -5,7 +5,7 @@ This project aims to automate the segregation of plastic waste using deep learni
 Key Features 
 Image Classification: Identifies and categorizes plastic waste into different types (e.g.,  PET, HDPE, LDPE). 
 Deep Learning Models: Utilizes Convolutional Neural Networks (CNNs) for  feature extraction and classification.   
-Dataset: Trained on a labeled dataset of plastic waste images. 
+Dataset: Trained on a labeled dataset of plastic waste images.  
 Accuracy Optimization: Fine-tunes the model using techniques like data augmentation and transfer learning. 
 Deployment: Can be integrated into waste management systems via a mobile or web application.
 
